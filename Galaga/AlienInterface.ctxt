@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AlienInterface
+comment1.params=points
+comment1.target=void\ addScore(int)
+comment1.text=\r\n\ The\ return\ int\ must\ be\ more\ than\ 10\r\n
+numComments=2
